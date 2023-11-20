@@ -1,0 +1,272 @@
+<--->
+11/17 03:45
+Anisicoria
+
+Is it recent or longstanding?
+Recent
+Is there any vision loss?
+Yes
+Is there any double vision?
+Yes
+Is there any pain?
+Yes
+Is there any light sensitivity?
+Yes
+Is there any haloes around lights?
+Yes
+Have you had previous uveitis?
+Yes
+Do you have diabetes or high blood pressure?
+Yes
+
+Result:Uveitis:    35%
+<--->
+11/17 22:39
+Anisicoria
+
+Is there any vision loss?
+Yes
+Is there any double vision?
+Yes
+Is there any pain?
+Yes
+Is there any light sensitivity?
+Yes
+Is there any haloes around lights?
+Yes
+Have you had previous uveitis?
+Yes
+Do you have diabetes or high blood pressure?
+Yes
+
+Result:Uveitis:    31%
+<--->
+11/18 01:02
+Flashes of Light
+
+Are the flashes unilateral or bilateral?
+Unilateral
+Did these flashes come on suddenly or gradually?
+Suddenly
+Do the flashes occur in transient episodes? if YES state whether seconds,or up to an hour?
+Seconds
+Are the flashes recurrent?
+Yes
+Is floaters present?
+Yes
+Flashes/flickers lights?
+Yes
+zig zag / sparkling lights?
+Yes
+Do you have vertigo, limb weakness?
+Yes
+Are you high myope >-3.00D?
+Yes
+prev surgery?
+Yes
+
+Result:tear):    23%
+<--->
+11/18 02:21
+Flashes of Light
+
+Are the flashes unilateral or bilateral?
+Unilateral
+Did these flashes come on suddenly or gradually?
+Suddenly
+Do the flashes occur in transient episodes? if YES state whether seconds,or up to an hour?
+Seconds
+Are the flashes recurrent?
+Yes
+Is floaters present?
+Yes
+Flashes/flickers lights?
+Yes
+zig zag / sparkling lights?
+Yes
+Do you have vertigo, limb weakness?
+Yes
+Are you high myope >-3.00D?
+Yes
+prev surgery?
+Yes
+
+Result:tear):    23%
+<--->
+11/18 02:32
+Anisicoria
+
+Is it recent or longstanding?
+Recent
+Is there any vision loss?
+Yes
+Is there any double vision?
+Yes
+Is there any pain?
+Yes
+Is there any light sensitivity?
+Yes
+Is there any haloes around lights?
+Yes
+Have you had previous uveitis?
+Yes
+Do you have diabetes or high blood pressure?
+Yes
+
+Result:Uveitis:    35%
+<--->
+11/18 02:40
+Anisicoria
+
+Is it recent or longstanding?
+Recent
+Is there any vision loss?
+Yes
+Is there any double vision?
+Yes
+Is there any pain?
+Yes
+Is there any light sensitivity?
+Yes
+Is there any haloes around lights?
+Yes
+Have you had previous uveitis?
+Yes
+Do you have diabetes or high blood pressure?
+Yes
+
+Result:Uveitis:    35%
+<--->
+11/18 02:41
+Anisicoria
+
+Is it recent or longstanding?
+Recent
+Is there any vision loss?
+Yes
+Is there any double vision?
+Yes
+Is there any pain?
+Yes
+Is there any light sensitivity?
+Yes
+Is there any haloes around lights?
+Yes
+Have you had previous uveitis?
+Yes
+Do you have diabetes or high blood pressure?
+Yes
+
+Result:Uveitis:    35%
+<--->
+11/18 02:42
+Anisicoria
+
+Is it recent or longstanding?
+Recent
+Is there any vision loss?
+Yes
+Is there any double vision?
+Yes
+Is there any pain?
+Yes
+Is there any light sensitivity?
+Yes
+Is there any haloes around lights?
+Yes
+Have you had previous uveitis?
+Yes
+Do you have diabetes or high blood pressure?
+Yes
+
+Result:Uveitis:    35%
+<--->
+11/18 04:07
+Flashes of Light
+
+Did these flashes come on suddenly or gradually?
+Suddenly
+Do the flashes occur in transient episodes? if YES state whether seconds,or up to an hour?
+Seconds
+Are the flashes recurrent?
+Yes
+Is floaters present?
+Yes
+Flashes/flickers lights?
+Yes
+zig zag / sparkling lights?
+Yes
+Do you have vertigo, limb weakness?
+Yes
+Are you high myope >-3.00D?
+Yes
+prev surgery?
+Yes
+
+Result:tear):    23%
+<--->
+11/19 01:00
+RedEye
+
+Is it recent or longstanding?
+Recent
+Is there any vision loss?
+Yes
+Is there any double vision?
+Yes
+Is there any pain?
+Yes
+Is there any light sensitivity?
+Yes
+Is there any haloes around lights?
+Yes
+Have you had previous uveitis?
+Yes
+Do you have diabetes or high blood pressure?
+Yes
+
+Result:Uveitis:    35%
+<--->
+11/19 01:45
+RedEye
+
+Is it recent or longstanding?
+Recent
+Is there any vision loss?
+No
+Is there any double vision?
+Yes
+Is there any pain?
+No
+Is there any light sensitivity?
+Yes
+Is there any haloes around lights?
+Yes
+Have you had previous uveitis?
+No
+Do you have diabetes or high blood pressure?
+Yes
+
+Result:3rd Nerve Palsy:    26%
+<--->
+11/19 01:46
+RedEye
+
+Is it recent or longstanding?
+Recent
+Is there any vision loss?
+Yes
+Is there any double vision?
+No
+Is there any pain?
+Yes
+Is there any light sensitivity?
+Yes
+Is there any haloes around lights?
+No
+Have you had previous uveitis?
+Yes
+Do you have diabetes or high blood pressure?
+Yes
+
+Result:Uveitis:    29%

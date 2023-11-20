@@ -1,0 +1,33 @@
+<--->
+07/28 14:56
+Flashes of Light
+
+Are the flashes unilateral or bilateral?
+Unilateral
+Did these flashes come on suddenly or gradually?
+Suddenly
+Do the flashes occur in transient episodes? if YES state whether seconds,or up to an hour?
+Seconds
+Are the flashes recurrent?
+Yes
+Is floaters present?
+Yes
+Flashes/flickers lights?
+Yes
+zig zag / sparkling lights?
+Yes
+Do you have vertigo, limb weakness?
+Yes
+Are you high myope >-3.00D?
+Yes
+prev surgery?
+Yes
+
+Result:tear):    23%
+detach):    23%
+pvd:    15%
+braindis:    15%
+migraine:    11%
+tia:    11%
+
+

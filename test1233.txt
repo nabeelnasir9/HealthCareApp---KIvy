@@ -1,0 +1,61 @@
+<--->
+01/19 15:48
+Anisicoria
+
+Is it recent or longstanding?
+Recent
+Is there any vision loss?
+Yes
+Is there any double vision?
+Yes
+Is there any pain?
+Yes
+Is there any light sensitivity?
+Yes
+Is there any haloes around lights?
+Yes
+Have you had previous uveitis?
+Yes
+Do you have diabetes or high blood pressure?
+Yes
+
+Result:Uveitis:    35%
+Closed AGA:    28%
+3rd Nerve Palsy:    21%
+horner SAME:    7%
+Adies:    7%
+
+
+<--->
+01/19 15:48
+Flashes of Light
+
+Are the flashes unilateral or bilateral?
+Unilateral
+Did these flashes come on suddenly or gradually?
+Suddenly
+Do the flashes occur in transient episodes? if YES state whether seconds,or up to an hour?
+Seconds
+Are the flashes recurrent?
+Yes
+Is floaters present?
+Yes
+Flashes/flickers lights?
+Yes
+zig zag / sparkling lights?
+Yes
+Do you have vertigo, limb weakness?
+Yes
+Are you high myope >-3.00D?
+Yes
+prev surgery?
+Yes
+
+Result:tear):    23%
+detach):    23%
+pvd:    15%
+braindis:    15%
+migraine:    11%
+tia:    11%
+
+
